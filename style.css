@@ -236,7 +236,7 @@ footer{
     margin-right: 5px;
 }
 #services img{
-    width: -webkit-fill-available;
+    width: 300px;
 }
 #contact-left{
     margin-top: 0;
